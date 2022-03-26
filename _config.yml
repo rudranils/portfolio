@@ -1,6 +1,19 @@
-title: Minimal theme
+title: <p align="center"> Rudranil Gupta </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/rudranilgupta/">LinkedIn</a> |
+  <a href="https://github.com/rudranils">GitHub</a>
+  
+  <br>   
+  I'm a software engineer having 5 years of experience in ETL testing domain. I have worked with tools like
+  Oracle SQL Developer, ab initio, hp alm, Python, Shell scripting and Teradata. I am currently pursuing my post graduate diploma
+  in Artificial Intelligence and Machine Learning from IIIT Bangalore.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
